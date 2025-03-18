@@ -1,15 +1,39 @@
 .box {
     /* Dimensions du contenu */
-    width: 300px;
+    width: 200px;
     height: 200px;
     
     /* Espace interne */
     padding: 20px;
     
     /* Bordure */
-    border: 2px solid black;
+    border: 2px solid rgb(41, 195, 43);
     
     /* Espace externe */
     margin: 30px;
   }
- 
+  .box2 {
+    /* Dimensions du contenu */
+    width: 100px;
+    
+    /* Espace interne */
+    padding: 20px;
+    
+    /* Bordure */
+    border: 2px solid rgb(41, 85, 195);
+    
+    /* Espace externe */
+    margin: 30px;
+  }
+  .box3 {
+    /* Dimensions du contenu */
+  width: 100px;    
+    /* Espace interne */
+    padding: 20px;
+    
+    /* Bordure */
+    border: 2px solid rgb(195, 41, 175);
+    
+    /* Espace externe */
+    margin: 30px;
+  }
