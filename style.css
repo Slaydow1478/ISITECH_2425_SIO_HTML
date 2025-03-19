@@ -39,3 +39,15 @@
     /* Espace externe */
     margin: 30px;
   }
+.container {
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+.container {
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
