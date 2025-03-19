@@ -1,6 +1,6 @@
 .box {
     /* Dimensions du contenu */
-    width: 200px;
+    width: 300px;
     height: 200px;
     
     /* Espace interne */
@@ -14,7 +14,8 @@
   }
   .box2 {
     /* Dimensions du contenu */
-    width: 100px;
+    width: 300px;
+    height: 230px;
     
     /* Espace interne */
     padding: 20px;
@@ -27,7 +28,8 @@
   }
   .box3 {
     /* Dimensions du contenu */
-  width: 100px;    
+  width: 300px;
+  height:295px;   
     /* Espace interne */
     padding: 20px;
     
