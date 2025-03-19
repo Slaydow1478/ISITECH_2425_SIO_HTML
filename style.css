@@ -1,3 +1,7 @@
+* {
+  color: white;
+}
+
 .box {
     /* Dimensions du contenu */
     width: 300px;
